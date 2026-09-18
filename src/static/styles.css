@@ -106,6 +106,10 @@ section h3 {
   word-break: break-word;
 }
 
+.participant-item:last-child {
+  margin-bottom: 0;
+}
+
 .participant-email {
   flex: 1;
 }
